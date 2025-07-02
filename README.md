@@ -1,5 +1,5 @@
 <header>
-  <img src="images/waves_header.jpg" alt="My Header Image" />
+  <img src="images/waves_header.jpg"/>
 </header>
 
 <h1 align="center">Mark Flynn</h1>
