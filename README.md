@@ -1,3 +1,7 @@
+<header>
+  <img src="images/waves_header.jpg" alt="My Header Image" />
+</header>
+
 <h1 align="center">Mark Flynn</h1>
 
 ## About Me
