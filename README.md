@@ -40,7 +40,7 @@ NACADA
 Sociology of Education Association  
 Association of the United States Navy  
 Surface Navy Association  
-Omicron Delta Kappa  
+Omicron Delta Kappa Honor Society  
 Kappa Sigma Fraternity
 
 ## Misc.
