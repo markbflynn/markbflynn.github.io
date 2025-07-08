@@ -40,7 +40,7 @@
       flex: 1;
       padding: 40px;
       max-width: 800px;
-      margin: 200px;
+      margin: auto;
     }
 
     h1, h2 {
@@ -67,25 +67,31 @@
 
     @media (max-width: 768px) {
       body {
-        flex-direction: column;
-      }
-
-      .sidebar {
-        width: 100%;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between;
-      }
-
-      .sidebar img {
-        width: 60px;
-        margin: 0;
-      }
-
-      .main {
-        padding: 20px;
-      }
+      flex-direction: column;
     }
+
+    .sidebar {
+      position: relative;
+      width: 100%;
+      height: auto;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px;
+      border-right: none;
+    }
+  
+    .sidebar img {
+      width: 60px;
+      height: 60px;
+      margin: 0;
+    }
+
+  .main {
+    margin-left: 0;
+    padding: 20px;
+  }
+}
 
     .split-section {
       display: flex;
