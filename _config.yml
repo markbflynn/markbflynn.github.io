@@ -137,9 +137,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Photography"
-      <i class="fa fa-camera" aria-hidden="true"></i>
-      # url: "https://adobe.ly/4gcHccm"
+    
 
 # Site Footer
 footer:
