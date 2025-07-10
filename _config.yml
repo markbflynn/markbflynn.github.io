@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Mark Flynn"
+title                    : "Mark Flynn's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Mark Flynn"
+description              : "A website duplicating my resume & showcasing some of my interests & hobbies."
+url                      : https://markbflynn.github.io/ # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -137,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Photography"
+      <i class="fa fa-camera" aria-hidden="true"></i>
+      url: "https://adobe.ly/4gcHccm"
 
 # Site Footer
 footer:
