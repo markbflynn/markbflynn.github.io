@@ -121,23 +121,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "mailto:mbflynn3@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    
+      url: "https://github.com/markbflynn"
+    - label: "Photography Portfolio"
+      icon: "fas fa-fw fa-camera"
+      url: "https://adobe.ly/4gcHccm"
+    - label: "(audio) Book List"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.goodreads.com/review/list/19185219?print=true&shelf=read"
 
 # Site Footer
 footer:
