@@ -38,16 +38,12 @@ _April 2020 – March 2021_
 *BA, History*
 
 ---
-
 ## Skills
 
 - Python (_beginner_)
-- Academic Advising  
 - Project Management  
-- Veterans Affairs Support  
 
 ---
-
 ## Research Interests
 
 - Educational Leadership and Policy  
@@ -59,7 +55,6 @@ _April 2020 – March 2021_
 - Veterans Affairs  
 
 ---
-
 ## Professional & Academic Affiliations
 
 - NACADA  
