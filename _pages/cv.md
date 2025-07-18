@@ -9,56 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Professional Experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Academic Advisor** @ *Virginia Tech*  
+_September 2024 – Present_
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Project Coordinator** @ *University of Virginia*  
+_October 2022 – September 2024_
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Senior Consultant** @ *Booz Allen Hamilton*  
+_April 2020 – March 2021_
+
+**Surface Warfare Officer** @ *United States Navy*  
+&nbsp;&nbsp;&nbsp;&nbsp; _January 2015 – March 2020 (Active Duty)_  
+&nbsp;&nbsp;&nbsp;&nbsp; _April 2020 – July 2021 (Reserves)_
+
+---
+## Education
+
+**University of Virginia**  
+*M.Ed., Higher Education Administration*
+
+**Lynchburg College**  
+*MBA, Business Administration & Management*
+
+**The College of William & Mary**  
+*BA, History*
+
+---
+
+## Skills
+
+- Python (_beginner_)
+- Academic Advising  
+- Project Management  
+- Veterans Affairs Support  
+
+---
+
+## Research Interests
+
+- Educational Leadership and Policy  
+- Gender Issues in Education  
+- Higher Education  
+- Organizational Strategic Planning  
+- Policy Formation, Analysis, and Evaluation  
+- Politics of Education  
+- Veterans Affairs  
+
+---
+
+## Professional & Academic Affiliations
+
+- NACADA  
+- Sociology of Education Association  
+- Association of the United States Navy  
+- Surface Navy Association  
+- Omicron Delta Kappa (National Leadership Honor Society)
