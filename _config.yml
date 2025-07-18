@@ -13,7 +13,7 @@ title                    : "Mark Flynn"
 title_separator          : "-"
 name                     : &name "Mark Flynn"
 description              : &description "personal description"
-url                      : https://markbflynn.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://markbflynn.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/markbflynn/markbflynn.github.io"
 
@@ -57,7 +57,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : mbflynn3
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
