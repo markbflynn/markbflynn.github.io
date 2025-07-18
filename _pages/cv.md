@@ -46,7 +46,6 @@ _April 2020 – March 2021_
 ---
 ## Research Interests
 
-- Educational Leadership and Policy  
 - Gender Issues in Education  
 - Higher Education  
 - Organizational Strategic Planning  
