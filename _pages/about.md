@@ -1,12 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About Me
+
+I’m a former Navy officer turned higher education professional. I grew up in Virginia and studied history at William & Mary before earning an MBA from Lynchburg College. During my time in the Navy, I got to drive warships, work with incredible people from all over the country, and learn a lot about myself and how the military operates across air, sea, and undersea mission areas.
+
+After the Navy, I spent a year consulting on anti-submarine warfare systems, then headed back to school for a master’s in Higher Education Administration. I work with computer science students at Virginia Tech as an academic advisor, helping them navigate college and plan for what’s next. I’m especially interested in veterans in higher education, the evolving relationship between education policy and government, and why the gender gap in education attainment keeps growing.
+
+In my free time, I enjoy photography, learning to code, football (the Jacksonville Jaguars), and the Washington Capitals.
+
+
+---
+=============
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
