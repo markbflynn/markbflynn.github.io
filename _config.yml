@@ -23,7 +23,7 @@ repository               : "https://github.com/markbflynn/markbflynn.github.io"
 
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "profile.png"
   name             : "Mark Flynn"
   pronouns         : # example: "she/her"  
   bio              : " "
