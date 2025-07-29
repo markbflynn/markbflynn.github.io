@@ -31,6 +31,9 @@ _April 2020 – March 2021_
 **University of Virginia**  
 *M.Ed., Higher Education Administration*
 
+**U.S. Naval War College**  
+*Joint Professional Military Education, National Security Diploma*  
+
 **Lynchburg College**  
 *MBA, Business Administration & Management*
 
@@ -51,13 +54,50 @@ _April 2020 – March 2021_
 - Organizational Strategic Planning  
 - Policy Formation, Analysis, and Evaluation  
 - Politics of Education  
-- Veterans Affairs  
+- Student Veterans  
 
 ---
 ## Professional & Academic Affiliations
 
-- NACADA  
+- NACADA (National Academic Advising Association)  
 - Sociology of Education Association  
 - Association of the United States Navy  
+- Omicron Delta Kappa (National Leadership Honor Society)  
 - Surface Navy Association  
-- Omicron Delta Kappa (National Leadership Honor Society)
+- Kappa Sigma Fraternity
+
+---
+## Certifications
+  
+- Surface Warfare Officer Qualification (_March 2017_)
+- Lean Six Sigma Certification (_October 2018_)
+- Virginia CCW Permit (_October 2016_)  
+- PADI Open Water Diver (_July 2007_)  
+
+---
+## Military Schools & Training  
+
+- US Navy Officer Candidate School  
+- 3M (Maintenance & Material Management) Course  
+- Basic Division Officer Course  
+- Advanced Division Officer Course  
+- Officer of the Deck (U/W) Certification  
+- Anti-Submarine Warfare Evaluator Course  
+- Joint Professional Military Education (JPME) I  Diploma
+- Tactical Tomahawk/Engagement Control Officer Course  
+- Anti-Terrorism Watch Officer Certification  
+- Advanced Fire Fighting Course  
+- Damage Control Locker Officer Course  
+- Global Command & Control System - Maritime Watch Officer Course  
+- Small Arms Qualification  
+- Non-Lethal Weapons Training/OC (OLEORESIN CAPSICUM) Spray Certification  
+
+---
+## Military Awards  
+
+- Navy & Marine Corps Achievement Medal (2)  
+- Meritorious Unit Commendation  
+- Battle "E" Ribbon (3)  
+- National Defense Service Medal  
+- Humanitarian Service Medal (2)  
+- Pistol Marksmanship Medal (Sharpshooter)
