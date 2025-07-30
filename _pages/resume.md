@@ -12,16 +12,16 @@ redirect_from:
 
 ## Professional Experience
 
-**Academic Advisor** @ *Virginia Tech*  
+Academic Advisor @ Virginia Tech  
 _September 2024 – Present_
 
-**Project Coordinator** @ *University of Virginia*  
+Project Coordinator @ University of Virginia  
 _October 2022 – September 2024_
 
-**Senior Consultant** @ *Booz Allen Hamilton*  
+Senior Consultant @ Booz Allen Hamilton  
 _April 2020 – March 2021_
 
-**Surface Warfare Officer** @ *United States Navy*  
+Surface Warfare Officer @ United States Navy  
 &nbsp;&nbsp;&nbsp;&nbsp; _January 2015 – March 2020 (Active Duty)_  
 &nbsp;&nbsp;&nbsp;&nbsp; _April 2020 – July 2021 (Reserves)_
 
@@ -43,7 +43,7 @@ _April 2020 – March 2021_
 ---
 ## Skills
 
-- Python (_beginner_)
+- Python (_basic_)
 - Project Management  
 
 ---
