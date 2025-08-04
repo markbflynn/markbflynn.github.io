@@ -18,6 +18,9 @@ _September 2024 – Present_
 Project Coordinator @ University of Virginia  
 _October 2022 – September 2024_
 
+Graduate Student @ University of Virginia
+_June 2021 - May 2022_
+
 Senior Consultant @ Booz Allen Hamilton  
 _April 2020 – March 2021_
 
