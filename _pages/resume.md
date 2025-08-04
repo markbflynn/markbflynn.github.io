@@ -74,7 +74,7 @@ _April 2020 – July 2021 (Reserves)_
   
 - Surface Warfare Officer Qualification (_March 2017_)
 - Lean Six Sigma Certification (_October 2018_)
-- Virginia CCW Permit (_October 2016_)  
+- Virginia CCW Permit (_October 2020_)  
 - PADI Open Water Diver (_July 2007_)  
 
 ---
