@@ -13,7 +13,7 @@ redirect_from:
 ## Professional Experience
 
 Academic Advisor @ Virginia Tech  
-_September 2024 – Present_
+_September 2024 – Present_  
 
 Project Coordinator @ University of Virginia  
 _October 2022 – September 2024_
@@ -22,17 +22,17 @@ Graduate Student @ University of Virginia
 _June 2021 - May 2022_  
 
 Senior Consultant @ Booz Allen Hamilton  
-_April 2020 – March 2021_
+_April 2020 – March 2021_  
 
 Surface Warfare Officer @ United States Navy  
 _January 2015 – March 2020 (Active Duty)_  
-_April 2020 – July 2021 (Reserves)_
+_April 2020 – July 2021 (Reserves)_  
 
 ---
 ## Education
 
 **University of Virginia**  
-*M.Ed., Higher Education Administration*
+*M.Ed., Higher Education Administration*  
 
 **U.S. Naval War College**  
 *Joint Professional Military Education, National Security Diploma*  
@@ -41,12 +41,12 @@ _April 2020 – July 2021 (Reserves)_
 *MBA, Business Administration & Management*
 
 **The College of William & Mary**  
-*BA, History*
+*BA, History*  
 
 ---
 ## Skills
 
-- Python (_basic_)
+- Python (_basic_)  
 - Project Management  
 
 ---
@@ -67,18 +67,18 @@ _April 2020 – July 2021 (Reserves)_
 - Association of the United States Navy  
 - Omicron Delta Kappa (National Leadership Honor Society)  
 - Surface Navy Association  
-- Kappa Sigma Fraternity
+- Kappa Sigma Fraternity  
 
 ---
 ## Certifications
-  
-- Surface Warfare Officer Qualification (_March 2017_)
-- Lean Six Sigma Certification (_October 2018_)
+
+- Surface Warfare Officer Qualification (_March 2017_)  
+- Lean Six Sigma Certification (_October 2018_)  
 - Virginia CCW Permit (_October 2020_)  
 - PADI Open Water Diver (_July 2007_)  
 
 ---
-## Military Schools & Training  
+## Military Schools & Training
 
 - US Navy Officer Candidate School  
 - 3M (Maintenance & Material Management) Course  
@@ -96,11 +96,11 @@ _April 2020 – July 2021 (Reserves)_
 - Non-Lethal Weapons Training/OC (OLEORESIN CAPSICUM) Spray Certification  
 
 ---
-## Military Awards  
+## Military Awards
 
 - Navy & Marine Corps Achievement Medal (2)  
 - Meritorious Unit Commendation  
 - Battle "E" Ribbon (3)  
 - National Defense Service Medal  
 - Humanitarian Service Medal (2)  
-- Pistol Marksmanship Medal (Sharpshooter)
+- Pistol Marksmanship Medal (Sharpshooter)  
