@@ -38,7 +38,7 @@ _April 2020 – July 2021 (Reserves)_
 *Joint Professional Military Education, National Security Diploma*  
 
 **Lynchburg College**  
-*MBA, Business Administration & Management*
+*MBA, Business Administration & Management*  
 
 **The College of William & Mary**  
 *BA, History*  
