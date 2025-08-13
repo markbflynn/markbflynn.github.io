@@ -16,7 +16,7 @@ Academic Advisor @ Virginia Tech
 _September 2024 – Present_  
 
 Project Coordinator @ University of Virginia  
-_October 2022 – September 2024_
+_October 2022 – September 2024_  
 
 Graduate Student @ University of Virginia  
 _June 2021 - May 2022_  
@@ -46,7 +46,7 @@ _April 2020 – July 2021 (Reserves)_
 ---
 ## Skills
 
-- Python (_basic_)  
+- Python (_beginner_)  
 - Project Management  
 
 ---
@@ -74,11 +74,11 @@ _April 2020 – July 2021 (Reserves)_
 
 - Surface Warfare Officer Qualification (_March 2017_)  
 - Lean Six Sigma Certification (_October 2018_)  
-- Virginia CCW Permit (_October 2020_)  
+- Virginia CCW Permit (_October 2016_)  
 - PADI Open Water Diver (_July 2007_)  
 
 ---
-## Military Schools & Training
+## Military Schools & Training  
 
 - US Navy Officer Candidate School  
 - 3M (Maintenance & Material Management) Course  
@@ -96,7 +96,7 @@ _April 2020 – July 2021 (Reserves)_
 - Non-Lethal Weapons Training/OC (OLEORESIN CAPSICUM) Spray Certification  
 
 ---
-## Military Awards
+## Military Awards  
 
 - Navy & Marine Corps Achievement Medal (2)  
 - Meritorious Unit Commendation  
