@@ -78,7 +78,7 @@ _April 2020 – July 2021 (Reserves)_
 - PADI Open Water Diver (_July 2007_)  
 
 ---
-## Military Schools & Training  
+## Military Schools & Training
 
 - US Navy Officer Candidate School  
 - 3M (Maintenance & Material Management) Course  
@@ -96,7 +96,7 @@ _April 2020 – July 2021 (Reserves)_
 - Non-Lethal Weapons Training/OC (OLEORESIN CAPSICUM) Spray Certification  
 
 ---
-## Military Awards  
+## Military Awards
 
 - Navy & Marine Corps Achievement Medal (2)  
 - Meritorious Unit Commendation  
