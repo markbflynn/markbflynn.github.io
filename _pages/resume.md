@@ -52,12 +52,12 @@ _April 2020 – July 2021 (Reserves)_
 ---
 ## Research Interests
 
-- Gender Issues in Education  
-- Higher Education  
-- Organizational Strategic Planning  
-- Policy Formation, Analysis, and Evaluation  
-- Politics of Education  
-- Student Veterans  
+- Gender and education, with emphasis on the widening gender gap in attainment  
+- STEM education  
+- Higher education policy, access, and student success  
+- Veterans’ educational experiences and policy considerations  
+- First-generation and underserved student populations  
+- Politics of education and organizational strategic planning  
 
 ---
 ## Professional & Academic Affiliations
@@ -67,14 +67,15 @@ _April 2020 – July 2021 (Reserves)_
 - Association of the United States Navy  
 - Omicron Delta Kappa (National Leadership Honor Society)  
 - Surface Navy Association  
-- Kappa Sigma Fraternity  
+- Student Veterans of America (UVA Chapter)  
+- Kappa Sigma Fraternity (Nu Chapter)  
 
 ---
 ## Certifications
 
 - Surface Warfare Officer Qualification (_March 2017_)  
 - Lean Six Sigma Certification (_October 2018_)  
-- Virginia CCW Permit (_October 2016_)  
+- Virginia CCW Permit (_August 2025_)  
 - PADI Open Water Diver (_July 2007_)  
 
 ---
@@ -82,11 +83,11 @@ _April 2020 – July 2021 (Reserves)_
 
 - US Navy Officer Candidate School  
 - 3M (Maintenance & Material Management) Course  
-- Basic Division Officer Course  
-- Advanced Division Officer Course  
-- Officer of the Deck (U/W) Certification  
+- Basic Division Officer Course (2015)  
+- Advanced Division Officer Course (2018)  
+- Officer of the Deck (Underway) Qualification  
 - Anti-Submarine Warfare Evaluator Course  
-- Joint Professional Military Education (JPME) I  Diploma
+- Joint Professional Military Education (JPME) I Diploma
 - Tactical Tomahawk/Engagement Control Officer Course  
 - Anti-Terrorism Watch Officer Certification  
 - Advanced Fire Fighting Course  
