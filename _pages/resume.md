@@ -52,12 +52,13 @@ _April 2020 – July 2021 (Reserves)_
 ---
 ## Research Interests
 
-- Gender and education, with emphasis on the widening gender gap in attainment  
+- Gender and educational attainment  
 - STEM education  
 - Higher education policy, access, and student success  
-- Veterans’ educational experiences and policy considerations  
+- Veterans’ educational experiences and policy  
 - First-generation and underserved student populations  
-- Politics of education and organizational strategic planning  
+- Politics of education  
+- Organizational strategy and leadership in higher education  
 
 ---
 ## Professional & Academic Affiliations
