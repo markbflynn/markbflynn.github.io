@@ -12,7 +12,7 @@ redirect_from:
 
 ## Professional Experience
 
-Advisory Board Member	@ Association of the United States Navy (AUSN)
+Advisory Board Member	@ Association of the United States Navy (AUSN)  
 _February 2025 - Present_
 
 Academic Advisor @ Virginia Tech  
